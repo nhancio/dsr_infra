@@ -28,7 +28,7 @@ export default function Testimonials() {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-blue-900 mb-4">Client Testimonials</h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Hear what our clients say about their experience working with us
+            Hear what our clients are saying about their experience working with us
           </p>
         </div>
         

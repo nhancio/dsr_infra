@@ -41,7 +41,7 @@ export default function Contact() {
             </div>
             
             <div>
-              <form className="space-y-6">
+              <form className="space-y-6" netlify>
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-2">
                     Full Name
